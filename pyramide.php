@@ -23,6 +23,7 @@ echo str_repeat("*", $nbEtoiles);
 echo "</br>";
 }
 
+
 $pyramide = [];
 //version tableau multidimensionnel ( compliqué)
 for ($x = 1; $x <= $etages; $x++){
