@@ -29,6 +29,7 @@
 	    <input type="radio" name="preference" value="chats">
 	    <button>Envoyer</button>
 	</form>
+    
 	    
 	</body>
 	</html>
